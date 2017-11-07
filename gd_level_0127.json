@@ -1,0 +1,454 @@
+{ "height":8,
+ "layers":[
+        {
+         "data":[170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 0, 170, 170, 170, 170, 170, 170, 170, 170, 170, 0, 0, 170, 170, 170, 170, 170, 170, 170, 170, 170, 0, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170, 170],
+         "height":8,
+         "name":"Slots",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "name":"Hidden",
+         "objects":[
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":0.606060606060737,
+                 "y":1021.48484848485
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":21,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1153.18181818182,
+                 "y":766.909090909091
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":22,
+                 "name":"",
+                 "rotation":90,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1024.60606060606,
+                 "y":894.878787878788
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":23,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":127.878787878788,
+                 "y":767.606060606061
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":24,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":383.787878787879,
+                 "y":1022.84848484848
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":25,
+                 "name":"",
+                 "rotation":90,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":639.69696969697,
+                 "y":894.393939393939
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":26,
+                 "name":"",
+                 "rotation":90,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":128.484848484848,
+                 "y":894.393939393939
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":27,
+                 "name":"",
+                 "rotation":90,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":128.515151515152,
+                 "y":767.818181818182
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1023.90909090909,
+                 "y":895.181818181818
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":29,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1280.93939393939,
+                 "y":1024.72727272727
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":30,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1280.42424242424,
+                 "y":384.515151515152
+                }, 
+                {
+                 "gid":192,
+                 "height":256,
+                 "id":31,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1.63636363636351,
+                 "y":256.878787878788
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[169, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 169, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 169, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 169, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 0, 169, 0, 0, 0, 0, 0, 0, 0, 169, 0, 0, 169, 169, 0, 0, 0, 0, 0, 169, 169, 0, 169, 169, 169, 169, 0, 0, 0, 169, 169, 169, 169, 169, 169, 169, 169, 169, 169, 169, 169, 169, 169, 169],
+         "height":8,
+         "name":"Bottom",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 167, 158, 158, 158, 158, 158, 158, 158, 167, 0, 0, 0, 167, 158, 158, 158, 158, 158, 167, 0, 0, 0, 0, 0, 167, 158, 158, 158, 167, 0, 0, 0, 141, 0, 0, 0, 167, 158, 167, 0, 0, 0, 141, 0, 0, 0, 0, 167, 167, 167, 0, 0, 0, 0, 0, 0, 0, 0, 0, 167, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "name":"Items",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 175, 174, 174, 174, 174, 174, 174, 174, 175, 0, 0, 151, 175, 174, 174, 174, 174, 174, 175, 151, 0, 0, 151, 151, 175, 174, 174, 174, 175, 151, 151, 0, 0, 150, 151, 151, 0, 174, 0, 151, 151, 150, 0, 0, 0, 150, 150, 0, 0, 0, 150, 150, 0, 0, 0, 0, 0, 150, 150, 0, 150, 150, 0, 0, 0, 0, 0, 0, 0, 151, 150, 151, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "name":"Top",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":8,
+         "name":"FX",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":11,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "name":"Invisible Helpers",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":32,
+ "orientation":"orthogonal",
+ "properties":
+    {
+     "amount":50,
+     "match3Type":"NumberOfMovements",
+     "mode":"CollectItems",
+     "objectiveItem0":"12 treasury_big",
+     "objectiveItem1":"16 gem",
+     "offsetX":-7,
+     "offsetY":-5
+    },
+ "propertytypes":
+    {
+     "amount":"float",
+     "match3Type":"string",
+     "mode":"string",
+     "objectiveItem0":"string",
+     "objectiveItem1":"string",
+     "offsetX":"int",
+     "offsetY":"int"
+    },
+ "renderorder":"right-down",
+ "tileheight":128,
+ "tilesets":[
+        {
+         "columns":0,
+         "firstgid":1,
+         "margin":0,
+         "name":"Constructive",
+         "spacing":0,
+         "tilecount":36,
+         "tileheight":128,
+         "tiles":
+            {
+             "139":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/bomb_01.png"
+                },
+             "140":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/bomb_02.png"
+                },
+             "141":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/bomb_03.png"
+                },
+             "142":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/bomb_04.png"
+                },
+             "143":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/border_left.png"
+                },
+             "144":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/border_right.png"
+                },
+             "145":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/border_top.png"
+                },
+             "146":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/catch_slot.png"
+                },
+             "147":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/chain_01.png"
+                },
+             "148":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/chain_02.png"
+                },
+             "149":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/crate_01.png"
+                },
+             "150":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/crate_02.png"
+                },
+             "151":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/empty.png"
+                },
+             "152":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/expander_01.png"
+                },
+             "153":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/expander_02.png"
+                },
+             "154":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/expander_03.png"
+                },
+             "155":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/expander_04.png"
+                },
+             "156":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/expander_05.png"
+                },
+             "157":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/gem.png"
+                },
+             "158":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/generating.png"
+                },
+             "159":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/generator.png"
+                },
+             "160":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_01.png"
+                },
+             "161":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_02.png"
+                },
+             "162":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_03.png"
+                },
+             "163":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_04.png"
+                },
+             "164":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_05.png"
+                },
+             "165":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/lightning.png"
+                },
+             "166":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/mud.png"
+                },
+             "167":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/sand_01.png"
+                },
+             "168":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/sand_02.png"
+                },
+             "169":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/space.png"
+                },
+             "170":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/stone_01.png"
+                },
+             "171":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/trash.png"
+                },
+             "172":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/weight.png"
+                },
+             "173":
+                {
+                 "image":"..\/textures\/match3_items\/stones3.png"
+                },
+             "174":
+                {
+                 "image":"..\/textures\/match3_items\/stones2.png"
+                }
+            },
+         "tilewidth":128
+        }, 
+        {
+         "columns":0,
+         "firstgid":176,
+         "margin":0,
+         "name":"Random",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":128,
+         "tiles":
+            {
+             "11":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_01.png"
+                },
+             "12":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_02.png"
+                },
+             "13":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_03.png"
+                },
+             "15":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/match3_items\/item_05.png"
+                }
+            },
+         "tilewidth":128
+        }, 
+        {
+         "columns":0,
+         "firstgid":192,
+         "margin":0,
+         "name":"Objects",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":1024,
+         "tiles":
+            {
+             "0":
+                {
+                 "image":"..\/..\/..\/..\/Wonderful folder full of joy\/Wonderfull folder full of joy\/textures\/treasury_big.png"
+                }
+            },
+         "tilewidth":512
+        }],
+ "tilewidth":128,
+ "type":"map",
+ "version":1,
+ "width":11
+}
